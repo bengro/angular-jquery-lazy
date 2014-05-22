@@ -1,0 +1,30 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bengro/angular-jquery-lazy",
+  "authors": [
+    "Benjamin Gröhbiel <benjamin.groehbiel@gmail.com>"
+  ],
+  "description": "AngularJS directive for the jQuery lazy plugin.",
+  "main": "dist/angular.jquery.lazy.min.js",
+  "keywords": [
+    "lazy",
+    "loading",
+    "lazy",
+    "image",
+    "angular",
+    "lazy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-lazy": "0.1.18"
+  }
+}
