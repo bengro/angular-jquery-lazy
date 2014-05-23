@@ -30,7 +30,7 @@
           };
 
           if(scope.lazyOptions != undefined) {
-            angular.extend(options, scope.lazyOptions);
+            angular.extend(scope.lazyOptions, options);
           }
 
           // attribute conversion from the pseudo markup into real markup accepted by jquery plugin.
