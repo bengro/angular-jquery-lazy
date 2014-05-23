@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/bengro/angular-jquery-lazy",
   "authors": [
-    "Benjamin Gröhbiel <benjamin.groehbiel@gmail.com>"
+    "Benjamin Groehbiel <benjamin.groehbiel@gmail.com>"
   ],
   "description": "AngularJS directive for the jQuery lazy plugin.",
   "main": "dist/angular.jquery.lazy.min.js",
