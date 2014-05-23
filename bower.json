@@ -17,12 +17,7 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "app/bower_components",
-    "test",
-    "tests"
+    "*.MD"
   ],
   "dependencies": {
     "jquery-lazy": "0.1.18"
